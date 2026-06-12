@@ -170,7 +170,7 @@ Run `python train_model.py` to retrain with fresh synthetic data.
 | Frontend | React 18, Vite, Tailwind CSS, React Leaflet, Zustand, Recharts |
 | Backend | Node.js, Express, MongoDB, Mongoose, Passport.js, JWT |
 | ML | Python, FastAPI, scikit-learn, RandomForest |
-| Maps | OpenStreetMap + Leaflet (100% free) |
+| Maps | OpenStreetMap + Leaflet |
 | Auth | Google OAuth 2.0 + JWT |
 
 ---
