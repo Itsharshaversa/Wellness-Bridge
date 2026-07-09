@@ -1,4 +1,4 @@
-# 🏥 MedAlert — Healthcare Availability & Emergency Management Platform
+# 🏥 WelnessBridge — Healthcare Availability & Emergency Management Platform
 
 > Full-stack MERN + ML healthcare emergency platform with real-time hospital tracking, bed availability, ambulance routing, and AI demand prediction.
 
